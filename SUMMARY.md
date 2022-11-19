@@ -4,5 +4,5 @@
 
 * [⭐ 词遇简介](README.md)
 * [🛣 产品计划](essential-documentation/roadmap.md)
-* [💿 安装词遇](essential-documentation/an-zhuang-ci-yu.md)
+* [💿 安装词遇](essential-documentation/install-ciyu.md)
 * [🙌 参与贡献](essential-documentation/contribute-to-ciyu.md)
